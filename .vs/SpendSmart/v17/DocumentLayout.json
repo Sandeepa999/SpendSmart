@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ashma Sandeepa\\Desktop\\C#\\SpendSmart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F41CD8F-9DF6-4280-B9CF-52D715243950}|SpendSmart\\SpendSmart.csproj|c:\\users\\ashma sandeepa\\desktop\\c#\\spendsmart\\spendsmart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F41CD8F-9DF6-4280-B9CF-52D715243950}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F41CD8F-9DF6-4280-B9CF-52D715243950}|SpendSmart\\SpendSmart.csproj|c:\\users\\ashma sandeepa\\desktop\\c#\\spendsmart\\spendsmart\\views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F41CD8F-9DF6-4280-B9CF-52D715243950}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F41CD8F-9DF6-4280-B9CF-52D715243950}|SpendSmart\\SpendSmart.csproj|c:\\users\\ashma sandeepa\\desktop\\c#\\spendsmart\\spendsmart\\views\\home\\createeditexpenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F41CD8F-9DF6-4280-B9CF-52D715243950}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\views\\home\\createeditexpenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F41CD8F-9DF6-4280-B9CF-52D715243950}|SpendSmart\\SpendSmart.csproj|c:\\users\\ashma sandeepa\\desktop\\c#\\spendsmart\\spendsmart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F41CD8F-9DF6-4280-B9CF-52D715243950}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F41CD8F-9DF6-4280-B9CF-52D715243950}|SpendSmart\\SpendSmart.csproj|c:\\users\\ashma sandeepa\\desktop\\c#\\spendsmart\\spendsmart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F41CD8F-9DF6-4280-B9CF-52D715243950}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F41CD8F-9DF6-4280-B9CF-52D715243950}|SpendSmart\\SpendSmart.csproj|c:\\users\\ashma sandeepa\\desktop\\c#\\spendsmart\\spendsmart\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F41CD8F-9DF6-4280-B9CF-52D715243950}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Expenses.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ashma Sandeepa\\Desktop\\C#\\SpendSmart\\SpendSmart\\Views\\Home\\Expenses.cshtml",
+              "RelativeDocumentMoniker": "SpendSmart\\Views\\Home\\Expenses.cshtml",
+              "ToolTip": "C:\\Users\\Ashma Sandeepa\\Desktop\\C#\\SpendSmart\\SpendSmart\\Views\\Home\\Expenses.cshtml",
+              "RelativeToolTip": "SpendSmart\\Views\\Home\\Expenses.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T07:02:30.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateEditExpenses.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ashma Sandeepa\\Desktop\\C#\\SpendSmart\\SpendSmart\\Views\\Home\\CreateEditExpenses.cshtml",
+              "RelativeDocumentMoniker": "SpendSmart\\Views\\Home\\CreateEditExpenses.cshtml",
+              "ToolTip": "C:\\Users\\Ashma Sandeepa\\Desktop\\C#\\SpendSmart\\SpendSmart\\Views\\Home\\CreateEditExpenses.cshtml",
+              "RelativeToolTip": "SpendSmart\\Views\\Home\\CreateEditExpenses.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T07:08:59.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ashma Sandeepa\\Desktop\\C#\\SpendSmart\\SpendSmart\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SpendSmart\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Ashma Sandeepa\\Desktop\\C#\\SpendSmart\\SpendSmart\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SpendSmart\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwC0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:03:47.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ashma Sandeepa\\Desktop\\C#\\SpendSmart\\SpendSmart\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SpendSmart\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ashma Sandeepa\\Desktop\\C#\\SpendSmart\\SpendSmart\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SpendSmart\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T07:02:56.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ashma Sandeepa\\Desktop\\C#\\SpendSmart\\SpendSmart\\Program.cs",
+              "RelativeDocumentMoniker": "SpendSmart\\Program.cs",
+              "ToolTip": "C:\\Users\\Ashma Sandeepa\\Desktop\\C#\\SpendSmart\\SpendSmart\\Program.cs",
+              "RelativeToolTip": "SpendSmart\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:38:24.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\Ashma Sandeepa\\Desktop\\C#\\SpendSmart\\SpendSmart\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "SpendSmart\\Models\\Expense.cs",
+              "ToolTip": "C:\\Users\\Ashma Sandeepa\\Desktop\\C#\\SpendSmart\\SpendSmart\\Models\\Expense.cs",
+              "RelativeToolTip": "SpendSmart\\Models\\Expense.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:00:08.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
